@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+.rec11 {
+    width: 463px;
+    height: 420px;
+}
+
+.p1 {
+    font-size: 18px;
+    color: #171717;
+    width: 339px;
+    height: 65px;
+}
