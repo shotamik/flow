@@ -20,3 +20,19 @@ header {
 nav a {
     color: white;
 }
+
+.img3 {
+    width: 463px;
+    height: 420px;
+}
+
+.p3 {
+    font-size: 18px;
+    color: #171717;
+    width: 339px;
+    height: 65px;
+}
+
+.divi {
+    display: inline-block;
+}
