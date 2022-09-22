@@ -17,13 +17,18 @@ header {
     padding: 50px;
 }
 
-nav a {
+a {
     color: white;
 }
 
 .img3 {
     width: 463px;
     height: 420px;
+    text-align: center;
+    top: 285px;
+    bottom: 10px;
+    border-radius: 12px;
+    background-color: #ffffff;
 }
 
 .p3 {
