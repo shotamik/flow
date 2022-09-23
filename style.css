@@ -5,18 +5,31 @@
     font-size: 100%;
 }
 
+<<<<<<< Updated upstream
 header {
     background-color: #0020F4;
     padding: 50px;
+=======
+a {
+    text-decoration: none;
+    margin-top: 70px;
+    margin-left: 240px;
+>>>>>>> Stashed changes
 }
 
 a {
     color: white;
 }
 
+<<<<<<< Updated upstream
 .divi {
     position: relative;
     display: inline-block;
+=======
+header {
+    padding: 50px;
+    background: #0020F4
+>>>>>>> Stashed changes
 }
 
 .divi {
