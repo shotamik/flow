@@ -23,6 +23,9 @@ a {
 
 .divi {
     display: inline-block;
+}
+
+.divi {
     position: relative;
 }
 
