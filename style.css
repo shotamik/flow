@@ -21,23 +21,33 @@ a {
     color: white;
 }
 
+.divi {
+    display: inline-block;
+    position: relative;
+}
+
 .img3 {
-    width: 463px;
-    height: 420px;
-    text-align: center;
-    top: 285px;
-    bottom: 10px;
-    border-radius: 12px;
-    background-color: #ffffff;
+
+    width: 520px;
+    height: 470px;
+    margin-left: 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
 }
 
 .p3 {
     font-size: 18px;
-    color: #171717;
-    width: 339px;
+    width: 310px;
     height: 65px;
-}
+    position: absolute;
+    left: 75px;
+    top: 250px;
+    background-color: #FFFFFF;
+    padding-right: 74px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 12px;
 
-.divi {
-    display: inline-block;
+
 }
